@@ -37,31 +37,31 @@ public class MainActivity extends AppCompatActivity {
 
                 switch (contador) {
 
-                    case 15:
+                    case 10:
                         smile.setImageResource(R.drawable.smile02);
                         break;
 
-                    case 30:
+                    case 20:
                         smile.setImageResource(R.drawable.smile03);
                         break;
 
-                    case 45:
+                    case 30:
                         smile.setImageResource(R.drawable.smile04);
                         break;
 
-                    case 60:
+                    case 40:
                         smile.setImageResource(R.drawable.smile05);
                         break;
 
-                    case 75:
+                    case 50:
                         smile.setImageResource(R.drawable.smile06);
                         break;
 
-                    case 90:
+                    case 70:
                         smile.setImageResource(R.drawable.smile07);
                         break;
 
-                    case 100:
+                    case 90:
                         smile.setImageResource(R.drawable.smile08);
                         break;
                 }
