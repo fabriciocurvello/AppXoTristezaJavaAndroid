@@ -57,12 +57,24 @@ public class MainActivity extends AppCompatActivity {
                         smile.setImageResource(R.drawable.smile06);
                         break;
 
-                    case 70:
+                    case 60:
                         smile.setImageResource(R.drawable.smile07);
                         break;
 
-                    case 90:
+                    case 70:
                         smile.setImageResource(R.drawable.smile08);
+                        break;
+
+                    case 80:
+                        smile.setImageResource(R.drawable.smile09);
+                        break;
+
+                    case 90:
+                        smile.setImageResource(R.drawable.smile10);
+                        break;
+
+                    case 100:
+                        smile.setImageResource(R.drawable.smile11);
                         break;
                 }
 
