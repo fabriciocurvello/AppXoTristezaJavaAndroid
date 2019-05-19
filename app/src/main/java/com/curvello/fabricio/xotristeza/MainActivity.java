@@ -60,6 +60,10 @@ public class MainActivity extends AppCompatActivity {
                     case 90:
                         smile.setImageResource(R.drawable.smile07);
                         break;
+
+                    case 100:
+                        smile.setImageResource(R.drawable.smile08);
+                        break;
                 }
 
             }
